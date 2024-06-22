@@ -1,0 +1,8 @@
+{
+  "personas"  :[
+    {
+        "id": 1,
+        "nombres": "Juan garcía"
+    }
+  ]
+}
